@@ -1,4 +1,4 @@
-runtime: python38 Criptomoeda-terrareal-
+runtime:python38 Criptomoedaterrareal
 autocreate
 restore
 formatcreat 
